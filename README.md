@@ -36,7 +36,7 @@ A Power BI-driven dashboard was developed to:
 4. Seasonal variations impact overall production trends.
 
 ## Output
-![](./)
+![](./powerbi_intern.PNG)
 
 ## Conclusion
 This project demonstrates the power of data visualization in analyzing India's agricultural landscape. The insights derived from this analysis can help policymakers, researchers, and farmers make data-driven decisions to optimize agricultural productivity.
